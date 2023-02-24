@@ -1,0 +1,38 @@
+{
+  "name": "nodejs-passport-jwt-stretegy-starter",
+  "version": "1.0.0",
+  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command. This application Passport JWT Strategy Usage (Node + Passport + Express + Mongoose + bcrypt + passport-jwt + jsonwebtoken)",
+  "author": "Muhammad Abdullah <mabdullah.se@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "boilerplate",
+    "generator",
+    "express",
+    "rest",
+    "api",
+    "mongodb",
+    "mongoose",
+    "bcrypt",
+    "dotenv",
+    "express",
+    "express-session",
+    "mongoose",
+    "passport",
+    "passport-jwt",
+    "jsonwebtoken"
+  ],
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
